@@ -39,7 +39,7 @@
 
 ### 使用预生成结果
 
-IP列表（CIDR格式）保存在仓库的[ip-lists分支](https://gaoyifan.github.io/china-operator-ip/index.html)中，GitHub Actions每日自动更新。
+IP列表（CIDR格式）保存在仓库的[ip-lists分支](https://qicloud-w.github.io/china-operator-ip/)中，GitHub Actions每日自动更新。
 
 ```sh
 git clone -b ip-lists https://github.com/Qicloud-W/china-operator-ip.git
