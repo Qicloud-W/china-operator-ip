@@ -3,7 +3,7 @@
 rm ip-lists/*.txt
 mv result/* ip-lists
 cd ip-lists
-tree -H . -P "*.txt|stat" -T "China Operator IP - prebuild results" > index.html
+tree -H . -P "*.txt|stat" -T "China 运营商IP段分类" > index.html
 git config user.name GitHub Actions
 git config user.email github-actions@github.com
 git add .
